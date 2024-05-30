@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaiPeng99
+- 👋 Hi, I’m @CaiPeng99, a girl who is doing master degree at Northeastern University
 - 👀 I’m still expoloring my field!
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on interesting projects
