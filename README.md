@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaiPeng99, a girl who is doing Computer Science at Northeastern University
+- 👋 Hi, I’m Cai Peng, a girl who is doing Computer Science at Northeastern University
 - 👀 I’m looking for 2025 Summer Internship/COOP, and I'm willing to relocate!!
 - 🌱 Skills:
 - Programming: Python, Java, JavaScript/TypeScript, C/C++, R, SQL, HTML/CSS, GO
