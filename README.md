@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @CaiPeng99, a girl who is doing master degree at Northeastern University
-- 👀 I’m still expoloring my field!
-- 🌱 I’m currently learning React.js
+- 👋 Hi, I’m @CaiPeng99, a girl who is doing Computer Science at Northeastern University
+- 👀 I’m looking for 2025 Summer Internship/COOP, and I'm willing to relocate!!
+- 🌱 Skills:
+- Programming: Python, Java, JavaScript/TypeScript, C/C++, R, SQL, HTML/CSS, GO
+- Frameworks and Tools:Node.js, Express.js, React,  Spring Boot, Next.js, Agular, Kafka, RabbitMQ, API Gateway, WebSocket, Eureka, Ribbon, REST APIs, Kubernetes, Docker, Nginx, Git, JUnit, Elasticsearch, Jenkins, Prometheus, Grafana, Terraform
+- Databases & Cloud Services: MongoDB, MySQL, Redis, Postgres, Prisma ORM, ClickHouse, Firebase, AWS Tools(S3, ECS, ECR, EC2, EKS, RDS, CloudFormation, DynamoDB), Google Cloud Platform, Oracle, Azure
+Soft Skills: Communication, Collaboration, Problem-solving, Time Management, Leadership
+
+
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me pengcai99#gmail.com
+- 📫 How to reach me
+- Email: pengcai99#gmail.com
+- LinkedIn: www.linkedin.com/in/cai-peng-89407a19a
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a dog person & coffee person
 
