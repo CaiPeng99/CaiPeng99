@@ -3,7 +3,7 @@
 
 ## 🌟 About Me  
 - 🎯 **Actively looking for** 2025 **Summer Internship/Co-op** opportunities (**Open to relocation!**)  
-- 🔍 Passionate about **backend engineering, distributed systems, and cloud computing**  
+- 🔍 Passionate about **backend engineering, distributed systems, and cloud technologies**  
 - 💼 **Cloud Architect Co-op @ Wintergreen** | **Ex-SWE @ Huawei**  
 - 🎨 Love **building scalable applications** and solving complex problems
 - 📩 **Email:** pengcai99@gmail.com  
