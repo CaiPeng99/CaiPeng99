@@ -7,7 +7,7 @@
 - 💼 **Cloud Architect Co-op @ Wintergreen** | **Ex-SWE @ Huawei**  
 - 🎨 Love **building scalable applications** and solving complex problems
 - 📩 **Email:** pengcai99@gmail.com  
-- 🎵 Huge fan of **lofi beats** and **dog lover** 🐶☕  
+- 🎵 Huge fan of **Music/Guitar** and **dog lover** 🐶☕  
 
 
 
