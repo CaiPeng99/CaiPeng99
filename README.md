@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Cai Peng**!  
-💻 **Computer Science @ Northeastern University** | 🚀 **Aspiring Software Engineer**  
+💻 **Computer Science @ Northeastern University** 
 
 ## 🌟 About Me  
 - 🎯 **Actively looking for** 2025/2026 **Summer Internship/Co-op** opportunities (**Open to relocation!**)  
