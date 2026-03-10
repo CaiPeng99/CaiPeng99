@@ -3,11 +3,10 @@
 
 ## 🌟 About Me  
 - 🎯 **Actively looking for** 2026 **Summer Internship/New Grad** opportunities (**Open to relocation!**)  
-- 🔍 Passionate about **backend development, full-stack development, distributed systems, and cloud technologies**  
+- 🔍 Passionate about **AI Agent, ML, backend development, full-stack development, distributed systems, and cloud technologies**  
 - 💼 **Ex-SWE @SLB**  | **Ex-Cloud Architect Co-op @ Wintergreen** | **Ex-SWE @ Huawei**  
 - 🎨 Love **building scalable applications** and solving complex problems
-- 📩 **Email:** pengcai99@gmail.com  
-- 🎵 Huge fan of **Music/Guitar** and **dog lover** 🐶☕  
+- 📩 **Email:** pengcai99@gmail.com(personal), peng.cai@northeastern.edu(school)
 
 
 
