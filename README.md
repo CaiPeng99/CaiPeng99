@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Cai Peng**!  
-💻 **Computer Science @ Northeastern University** 
+💻 **Computer Science @ Northeastern University, ADV Management & Computer Science @ Michigan State University** 
 
 ## 🌟 About Me  
 - 🎯 **Actively looking for** 2026 **Summer Internship/New Grad** opportunities (**Open to relocation!**)  
